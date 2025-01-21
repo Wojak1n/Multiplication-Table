@@ -1,0 +1,8 @@
+tr{
+    width: 50px;
+    background-color: blue;
+}
+th,td{
+    background-color: green;
+    width: 50px;
+}

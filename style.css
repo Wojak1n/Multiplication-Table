@@ -1,0 +1,10 @@
+#flex{
+    display: flex;
+    padding-left: 30px;
+}
+#flex2 {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
