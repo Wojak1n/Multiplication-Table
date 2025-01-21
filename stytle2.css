@@ -1,8 +1,14 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
 tr{
     width: 50px;
-    background-color: blue;
+    background-color: gray;
+    text-align: center;
 }
-th,td{
-    background-color: green;
-    width: 50px;
+th{
+    background-color: black;
+    width: 100px;
+    height: 40px;
+    color: white;
 }
